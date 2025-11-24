@@ -18,5 +18,5 @@ Solo project.
 - Press button to toggle LED
 
 ## Demo
-![Circuit Diagram](screenshots/circuit.png)  
-![Simulation](https://www.tinkercad.com/things/eisB9GopDkJ-p3-yuliya?sharecode=6lwpe7-itD2_zmwo_BsbUrjYmd-fJDKAAm8HugNqbVQ)# Push-button-LED-Toggle
+![Circuit Diagram](circuit.png)  
+Simulation https://www.tinkercad.com/things/eisB9GopDkJ-p3-yuliya?sharecode=6lwpe7-itD2_zmwo_BsbUrjYmd-fJDKAAm8HugNqbVQ
